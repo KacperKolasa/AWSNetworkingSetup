@@ -1,6 +1,6 @@
 # AWS Manual Networking Setup
 
-This guide provides a detailed walkthrough for setting up a secure, basic networking environment in AWS, suitable for small-to-medium applications. We'll explain each component used and its purpose to help you understand the architecture.
+This guide provides a detailed walkthrough for manually setting up a secure, basic networking environment in AWS, suitable for small-to-medium applications. We'll explain each component used and its purpose to help you understand the architecture.
 
 ## Overview
 
