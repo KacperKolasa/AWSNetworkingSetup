@@ -122,7 +122,7 @@ An **Internet Gateway** connects public subnets to the internet.
 ### Private Route Table Setup
 
 1. **Create Private Route Tables**:
-   - Create two private route tables, one for each availability zone. Name them to reflect their purpose (e.g., `PrivateRouteTable-AZ1` and `PrivateRouteTable-AZ2`).
+   - Create two private route tables, one for each availability zone.
 
      ![Two private route tables](https://i.imgur.com/Dr4Xi9e.png)
 
