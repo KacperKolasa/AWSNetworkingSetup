@@ -9,7 +9,6 @@ This project demonstrates how to configure essential AWS networking resources us
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Setup Methods](#setup-methods)
-4. [License](#license)
 
 ---
 
